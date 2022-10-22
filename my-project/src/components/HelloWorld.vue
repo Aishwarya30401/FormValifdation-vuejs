@@ -34,7 +34,5 @@ export default {
   width:350px;
   height:350px;
   position: relative;
-  left: 499px;
-
-}
+  left: 499px; }
 </style>
